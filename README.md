@@ -97,8 +97,6 @@ Create a .env file or configure environment variables:
 OPENAI_API_KEY=your_api_key
 ```
 ## 📷 Screenshots
-### Reply Generation
-![Reply Generation](screenshots/reply.png)
 
 ### Browser Extension
 ![Extension Screenshot](screenshots/extension.jpeg)
